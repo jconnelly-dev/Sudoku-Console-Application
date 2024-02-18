@@ -9,7 +9,7 @@
 
 ## Introduction
 
-Hi, I'm Joey. Welcome to my GitHub repo for my Sudoku project!
+Hi, :wave: I'm Joey and welcome to my GitHub repo for my Sudoku project!
 
 I'm a Software Engineer and, like many, I enjoy the occassional Sudoku puzzle. This is a project that came up one weekend while idly working on a puzzle. I thought to myself, "Why don't I spend this time writing a program to do this for me!" This project then is a realization of that idea - a simple console application to solve Sudokus.
 
