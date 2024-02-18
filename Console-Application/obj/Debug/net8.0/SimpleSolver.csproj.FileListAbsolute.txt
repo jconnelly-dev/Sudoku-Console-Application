@@ -1,0 +1,14 @@
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\bin\Debug\net8.0\SimpleSolver.exe
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\bin\Debug\net8.0\SimpleSolver.deps.json
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\bin\Debug\net8.0\SimpleSolver.runtimeconfig.json
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\bin\Debug\net8.0\SimpleSolver.dll
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\bin\Debug\net8.0\SimpleSolver.pdb
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\obj\Debug\net8.0\SimpleSolver.GeneratedMSBuildEditorConfig.editorconfig
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\obj\Debug\net8.0\SimpleSolver.AssemblyInfoInputs.cache
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\obj\Debug\net8.0\SimpleSolver.AssemblyInfo.cs
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\obj\Debug\net8.0\SimpleSolver.csproj.CoreCompileInputs.cache
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\obj\Debug\net8.0\SimpleSolver.dll
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\obj\Debug\net8.0\refint\SimpleSolver.dll
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\obj\Debug\net8.0\SimpleSolver.pdb
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\obj\Debug\net8.0\SimpleSolver.genruntimeconfig.cache
+C:\TomatoSoup\_WORK\Visual Studio 2022\MySudokuSolver\SimpleSolver\obj\Debug\net8.0\ref\SimpleSolver.dll
